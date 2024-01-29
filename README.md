@@ -1,3 +1,5 @@
+![PortadaTiendaMuebles](https://github.com/gabrieldp36/tiendaMueblesSite/assets/88417383/8c2acccf-8608-4271-9c01-ee119ceaf4a0)
+
 # Tienda Muebles.
 
 El presente proyecto se trata de la maquetación de un sitio web orientado a la venta de muebles para hogar y oficina.
@@ -9,5 +11,5 @@ Adicionalmente, el sitio cuenta con animaciones desarrolladas mediante css.
 Para visitar el sitio pueden hacer click en el siguiente link:
 
 ```
-https://effortless-valkyrie-f97201.netlify.app
+https://tienda-muebles-gdp.netlify.app
 ```
