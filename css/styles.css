@@ -242,7 +242,9 @@ img {
     display: block;
     padding: 2rem;
     font-size: 2rem;
-    transition: all .6s ease-in-out;
+    border-bottom-right-radius: 1rem;
+    transition-property: background-color color;
+    transition-duration: .6s;
 }
 
 .categoria a:hover {
