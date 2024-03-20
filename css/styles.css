@@ -274,8 +274,13 @@ img {
     .sobre-nosotros {
         background-image: linear-gradient(to right, transparent 50%, #037bc0 50%, #037bc0 100%), url("../assets/img/nosotros.jpg");
         background-position: left center;
-        /* padding: 10rem 0; */
-        background-size: 100%, 92rem;
+        background-size: 100%, 90rem;
+    }
+}
+
+@media(min-width: 1600px) {
+    .sobre-nosotros {
+        background-size: 100%, 110rem;
     }
 }
 
